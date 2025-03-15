@@ -21,7 +21,7 @@ function App(){
     return(
         <>
         <div>
-            <h1> Hello sir, <span style={cssStyle}>{greeting}</span></h1>
+            <h1> Hello sir/ma'am, <span style={cssStyle}>{greeting}</span></h1>
             </div>
         </>
     );
